@@ -21,6 +21,7 @@ rnb1kbnr/pppp1p1p/8/3N4/2q1Pp2/5Q2/PPPP2PP/R1B2R1K b kq - ; cdb eval: 273; PV le
 rnbq3r/pppp1k2/3b1n1p/8/4PQ1P/8/PPPP2P1/RNB1KB1R w KQ - ; cdb eval: -268; PV length: 10
 r1b1kbnr/pppp1ppp/2n5/5N2/4P2q/8/PPP2PPP/RNBQKB1R b KQkq - ; cdb eval: 21; PV length: 10
 r3kb1r/5ppp/b3pn2/1p1qN1B1/3p4/3B4/PP2QPPP/R4RK1 b kq - ; cdb eval: 3; PV length: 10
+r2q1rk1/pbppbppp/np2pn2/8/2PP4/2N2NP1/PP2PPBP/R1BQ1RK1 w - - ; cdb eval: 27; PV length: 10
 rnbqkbnr/ppppp2p/6p1/7Q/4p3/6P1/PPPP1P1P/RNB1KBNR w KQkq - ; cdb eval: -166; PV length: 11
 rnbqkbnr/ppp1pppp/8/3p4/7P/7R/PPPPPPP1/RNBQKBN1 b Qkq - ; cdb eval: 248; PV length: 11
 rnbqkb1r/pppppp1p/5np1/7P/3P4/8/PPP1PPP1/RNBQKBNR b KQkq - ; cdb eval: 4; PV length: 11
@@ -34,7 +35,6 @@ r1bqk2r/ppp2ppp/2n5/3p4/2BPn3/B1P2N2/P4PPP/R2Q1RK1 b kq - ; cdb eval: 180; PV le
 r1bqkbnr/pppp1p1p/2n5/1B2p1p1/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - ; cdb eval: 196; PV length: 11
 r1bqk2r/pnppbppp/2p5/4P3/8/1P3N2/P1P1QPPP/RNB2RK1 b kq - ; cdb eval: -16; PV length: 11
 r2q1rk1/p2nbppp/bpp1pn2/3p4/2PP1B2/5NP1/PPQNPPBP/R4RK1 w - - ; cdb eval: 1; PV length: 11
-rnbqkb1r/pppppp1p/5np1/8/1P3P2/5N2/P1PPP1PP/RNBQKB1R b KQkq - ; cdb eval: 31; PV length: 12
 rnbqkbnr/pp2pppp/8/2p5/2p5/1P2PN2/P2P1PPP/RNBQKB1R b KQkq - ; cdb eval: 53; PV length: 12
 rnbqkb1r/pppp1ppp/8/6N1/2P1p1n1/2N5/PP1PPPPP/R1BQKB1R w KQkq - ; cdb eval: 233; PV length: 12
 rnb1k1nr/pp1ppp1p/6p1/q1pP4/2P5/2P5/P3PPPP/R1BQKBNR w KQkq - ; cdb eval: 92; PV length: 12
@@ -62,6 +62,7 @@ rnbqkb1r/1ppn1ppp/p3p3/3pP3/3P4/P1N2N2/1PP2PPP/R1BQKB1R b KQkq - ; cdb eval: -3;
 r1bqkb1r/ppp4p/2n2ppn/3pp3/2B1P3/3P1Q2/PPP1NPPP/RNB1K2R w KQkq - ; cdb eval: 191; PV length: 13
 rnbqkbnr/pppp1ppp/8/8/4Pp2/8/PPPP1KPP/RNBQ1BNR b kq - ; cdb eval: 320; PV length: 13
 r1bqkbnr/pppp1p1p/2n5/6p1/2B1Pp2/5N2/PPPP2PP/RNBQK2R w KQkq - ; cdb eval: -12; PV length: 13
+r1bq1rk1/pppp1ppp/2n2n2/1B2P3/1b1P1P2/2N5/PPP3PP/R1BQ1RK1 w - - ; cdb eval: 13; PV length: 13
 r1bqkb1r/pppp1ppp/2n5/1B2p3/4P1n1/5N2/PPPP1PPP/RNBQ1RK1 w kq - ; cdb eval: 184; PV length: 13
 rnbqkb1r/ppp2ppp/4pn2/8/3P4/2N2N2/PPP3PP/R1BQKB1R w KQkq - ; cdb eval: -3; PV length: 13
 r2q1rk1/pb1nbppp/2p1pn2/1p1p4/2PP4/1PN2NP1/P1Q1PPBP/R1BR2K1 w - - ; cdb eval: 56; PV length: 13
@@ -73,7 +74,6 @@ rnbqkbnr/pppp2pp/4p3/5p2/4P3/1P6/PBPP1PPP/RN1QKBNR b KQkq - ; cdb eval: -39; PV 
 rnbqkbnr/3p1ppp/p3p3/1pp5/2P5/2N2NP1/PP1PPP1P/R1BQKB1R w KQkq - ; cdb eval: 78; PV length: 14
 rn2kb1r/ppp1pppp/5n2/5bN1/3qp3/2N5/PPPPQPPP/R1B1KB1R w KQkq - ; cdb eval: 437; PV length: 14
 rnbqkb1r/pppp1ppp/5n2/4p3/3P4/2N5/PPP1PPPP/R1BQKBNR w KQkq - ; cdb eval: 203; PV length: 14
-rnb1kbnr/pp2pppp/2pq4/8/3P4/2N5/PPP2PPP/R1BQKBNR w KQkq - ; cdb eval: 64; PV length: 14
 rnbq1rk1/ppppp2p/6pb/5P2/3P4/2N5/PPP2PPP/R2QKBNR w KQ - ; cdb eval: 235; PV length: 14
 rnb1k1nr/pp1ppp1p/6p1/q1pP4/4P3/2P5/P1P2PPP/R1BQKBNR w KQkq - ; cdb eval: 186; PV length: 14
 rnbqkbnr/pp2pppp/8/3p4/4P3/1Q6/PP1P1PPP/RNB1KBNR b KQkq - ; cdb eval: 23; PV length: 14
@@ -90,7 +90,6 @@ r1bnk2r/ppppnppp/5q2/1Bb5/3NP3/2P1B3/PP3PPP/RN1QK2R w KQkq - ; cdb eval: 60; PV 
 r1bq1rk1/ppp2ppp/1b1p1n2/4p3/N3P3/3P1B2/PPP2PPP/R1BQ1RK1 w - - ; cdb eval: 23; PV length: 14
 r1bqkb1r/2p3pp/p1p5/3pPp2/4n3/2N2N2/PPP2PPP/R1BQR1K1 b kq - ; cdb eval: -17; PV length: 14
 rnbqkb1r/ppp1pppp/8/3p2B1/3Pn3/2N5/PPP1PPPP/R2QKBNR w KQkq - ; cdb eval: 24; PV length: 14
-r1bqkbnr/ppp1pppp/2n5/8/2pP4/2N5/PP2PPPP/R1BQKBNR w KQkq - ; cdb eval: 34; PV length: 14
 rnbqkbnr/pp3ppp/8/2p1P3/2Pp4/5N2/PP2PPPP/RNBQKB1R w KQkq - ; cdb eval: 176; PV length: 14
 r1bqkb1r/pp1n1ppp/4pn2/2pp4/2PP4/3BPN2/PP1N1PPP/R1BQK2R w KQkq - ; cdb eval: 17; PV length: 14
 r2q1rk1/pp2bppp/2n1bn2/2pp2B1/3P4/2N2NP1/PP2PPBP/R2Q1RK1 w - - ; cdb eval: 23; PV length: 14
@@ -98,3 +97,4 @@ rn1qkb1r/pb1p1ppp/1p3n2/2pp2N1/2P5/6P1/PP2PPBP/RNBQK2R b KQkq - ; cdb eval: -22;
 r1bq1rk1/pp1n1ppp/4pn2/2p5/1bBP4/2N1PN2/PP3PPP/R1BQ1RK1 w - - ; cdb eval: 14; PV length: 14
 rnbq1rk1/pp2ppbp/3p1np1/2pP2B1/2P1P3/2N5/PP2BPPP/R2QK1NR b KQ - ; cdb eval: -3; PV length: 14
 rnbqkbnr/pppp1ppp/8/4p3/8/5P2/PPPPPKPP/RNBQ1BNR b kq - ; cdb eval: 169; PV length: 15
+rnbqkbnr/pp2pppp/8/2pp4/3PP2P/8/PPP2PP1/RNBQKBNR b KQkq - ; cdb eval: 14; PV length: 15
